@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SAoS</string>
+
+    <string-array name="filter_list">
+        <item>1)Идеальный ФНЧ</item>
+        <item>2)Идеальный ФВЧ</item>
+        <item>3)Идеальный полосовой фильтр</item>
+        <item>4)Идеальный режекторный фильтр</item>
+        <item>5)Согласованный фильтр</item>
+    </string-array>
+
+    <string-array name="signal_list">
+        <item>Выберите тип сигнала</item>
+        <item>1)Гармонический</item>
+        <item>2)Меандр</item>
+    </string-array>
+
+</resources>
